@@ -5,7 +5,7 @@
 # Description: This repository will be used to hold future assignments and is a great tool for creating, revising, and collaborating code and files.
 
 # **_About me_**
-## **My Hobbies**
+## **Hobbies**
   * Gym
     - I go to the gym about seven days a week. I just skip cardio so I can't lose weight.
   * Hockey
